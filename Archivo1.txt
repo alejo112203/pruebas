@@ -1,1 +1,1 @@
-primer commit git , otro commit , otro
+primer commit git , otro commit , otro commit sin git add
